@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+.margin{
+    margin-top: 40px;
+}
+
+#wrapper {
+    width: 720px;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
